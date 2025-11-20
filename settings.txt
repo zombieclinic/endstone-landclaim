@@ -1,0 +1,4 @@
+root: C:\Users\raymn\PycharmProjects\endstone-landclaim 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
